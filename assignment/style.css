@@ -1,0 +1,17 @@
+.title {
+    background-color: #1A5276;
+    color: #D5F5E3 ;
+    text-align: center;
+}
+
+.note {
+    background-color: #D6DBDF;
+    padding: 1em;
+}
+
+.content {
+    background-image: url('record.png');
+}
+body {
+    margin: 0;
+}
